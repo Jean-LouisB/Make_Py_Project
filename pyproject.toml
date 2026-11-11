@@ -20,4 +20,7 @@ include = ["py_project_packagor*"]
 
 [tool.setuptools.package-data]
 func = ["py.typed"]
-    
+
+[project.urls]
+Repository = "https://github.com/Jean-LouisB/Py-Project-Generator.git"
+Changelog = "https://github.com/Jean-LouisB/Py-Project-Generator.git/CHANGELOG.md"
