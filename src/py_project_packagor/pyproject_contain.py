@@ -7,7 +7,7 @@ def get_pyproject_contain(project: Project):
 name = "{project.project_name}"
 version = "{project.version}"
 description = "{project.description}"
-authors = {project.author}
+authors = {project.author_to_dict()}
 readme = "README.md"
 
 [build-system]
