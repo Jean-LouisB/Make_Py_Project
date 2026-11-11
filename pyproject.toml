@@ -23,5 +23,6 @@ include = ["make_py_project*"]
 func = ["py.typed"]
 
 [project.urls]
-Repository = "https://github.com/Jean-LouisB/Make_Py_Projectgit"
+Repository = "https://github.com/Jean-LouisB/Make_Py_Project.git"
 Changelog = "https://github.com/Jean-LouisB/Make_Py_Project/blob/main/CHANGELOG.md"
+
