@@ -1,6 +1,6 @@
 [project]
 name = "Py_Project_Packagor"
-version = "1.0.2"
+version = "1.0.3"
 description = "Générateur de projet python"
 authors = [
             { name = "Fabrice Kopf", email= "contact@fabricekopf.fr" },
