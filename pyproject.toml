@@ -1,5 +1,5 @@
 [project]
-name = "Py_Project_Generator"
+name = "Make_Py_Project"
 version = "1.0.0"
 description = "Générateur de projet python"
 authors = [
@@ -12,16 +12,16 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project.scripts]
-py-init = "py_project_generator.run:run"
-ppg = "py_project_generator.run:run"
+py-init = "make_py_project.run:run"
+mpp = "make_py_project.run:run"
 
 [tool.setuptools.packages.find]
 where = ["src"]
-include = ["py_project_generator*"]
+include = ["make_py_project*"]
 
 [tool.setuptools.package-data]
 func = ["py.typed"]
 
 [project.urls]
-Repository = "https://github.com/Jean-LouisB/Py-Project-Generator.git"
-Changelog = "https://github.com/Jean-LouisB/Py-Project-Generator/blob/main/CHANGELOG.md"
+Repository = "https://github.com/Jean-LouisB/Make_Py_Projectgit"
+Changelog = "https://github.com/Jean-LouisB/Make_Py_Project/blob/main/CHANGELOG.md"

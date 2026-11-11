@@ -1,4 +1,4 @@
-src/Py_Project_Generator.egg-info
+*.egg-info
 .vscode
 .flake8
 dist/

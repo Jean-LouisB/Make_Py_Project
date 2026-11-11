@@ -1,7 +1,7 @@
-# Py Project Generator
+# Make Py Project
 
-`py_project_generator` est un générateur interactif de structure pour démarrer un
-package Python. Sa commande `py-init` demande les informations du projet, puis
+`make_py_project` est un générateur interactif de structure pour démarrer un
+package Python. Sa commande `py-init` ou `mpp` demande les informations du projet, puis
 crée les fichiers de base nécessaires à sa construction et à sa documentation.
 
 ## Installation globale
@@ -9,7 +9,7 @@ crée les fichiers de base nécessaires à sa construction et à sa documentatio
 Il est conseiller une installation globale.
 
 ```bash
-pip install Py-Project-Generator
+pip install Make_Py_Project
 ```
 
 Redémarrez ensuite le terminal si nécessaire.
