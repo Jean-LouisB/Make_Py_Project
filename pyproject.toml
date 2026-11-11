@@ -13,6 +13,7 @@ build-backend = "setuptools.build_meta"
 
 [project.scripts]
 py-init = "py_project_generator.run:run"
+ppg = "py_project_generator.run:run"
 
 [tool.setuptools.packages.find]
 where = ["src"]
