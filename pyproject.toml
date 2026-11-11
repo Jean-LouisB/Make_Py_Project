@@ -1,0 +1,23 @@
+[project]
+name = "Py_Project_Packagor"
+version = "1.0.2"
+description = "Générateur de projet python"
+authors = [
+            { name = "Fabrice Kopf", email= "contact@fabricekopf.fr" },
+        ]
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+py-init = "py_project_packagor.run:run"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["py_project_packagor*"]
+
+[tool.setuptools.package-data]
+func = ["py.typed"]
+    
