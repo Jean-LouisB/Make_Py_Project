@@ -1,5 +1,9 @@
 # Historique des versions
 
+## 1.0.4 — 2026-11-11
+
+- Change le lien git vers ce fichier `CHANGELOG`
+
 ## 1.0.3 — 2026-11-11
 
 - Améliore l'initialisation avec des valeurs par défaut centralisées.

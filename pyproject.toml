@@ -1,6 +1,6 @@
 [project]
 name = "Py_Project_Packagor"
-version = "1.0.3"
+version = "1.0.4"
 description = "Générateur de projet python"
 authors = [
             { name = "Fabrice Kopf", email= "contact@fabricekopf.fr" },
@@ -23,4 +23,4 @@ func = ["py.typed"]
 
 [project.urls]
 Repository = "https://github.com/Jean-LouisB/Py-Project-Generator.git"
-Changelog = "https://github.com/Jean-LouisB/Py-Project-Generator/blob/0fa0b2edafdbc8b0ed3545c8162e27adb3d908e1/CHANGELOG.md"
+Changelog = "https://github.com/Jean-LouisB/Py-Project-Generator/blob/main/CHANGELOG.md"
