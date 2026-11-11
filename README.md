@@ -1,6 +1,6 @@
-# Py Project Packagor
+# Py Project Generator
 
-`py_project_packagor` est un générateur interactif de structure pour démarrer un
+`py_project_generator` est un générateur interactif de structure pour démarrer un
 package Python. Sa commande `py-init` demande les informations du projet, puis
 crée les fichiers de base nécessaires à sa construction et à sa documentation.
 
@@ -9,7 +9,7 @@ crée les fichiers de base nécessaires à sa construction et à sa documentatio
 Il est conseiller une installation globale.
 
 ```bash
-pip install Py-Project-Packagor
+pip install Py-Project-Generator
 ```
 
 Redémarrez ensuite le terminal si nécessaire.

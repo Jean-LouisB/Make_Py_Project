@@ -1,4 +1,6 @@
-src/Py_Project_Packagor.egg-info
+src/Py_Project_Generator.egg-info
 .vscode
 .flake8
 dist/
+*.pyc
+__pycache__
