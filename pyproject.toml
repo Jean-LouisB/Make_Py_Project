@@ -1,6 +1,6 @@
 [project]
 name = "Make_Py_Project"
-version = "1.0.0"
+version = "1.0.1"
 description = "Générateur de projet python"
 authors = [
             { name = "Fabrice Kopf", email= "contact@fabricekopf.fr" },
